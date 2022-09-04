@@ -1,5 +1,1 @@
-
-npm init 
-npm install
-npm run serve,
-server:nodemon app.js
+登录功能以及分页器功能暂未上线,持续更新中
